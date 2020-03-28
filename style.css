@@ -1,0 +1,81 @@
+body {
+    background-color: white;
+    color: #2a1900;
+}
+#header{
+    color: white;
+    text-align: center;
+    
+}
+.navbar{
+    background-color: rgb(25, 49, 95);
+}
+#titleHeader{
+    position: relative;
+    left: 50%;
+    width: 500px;
+    margin-left: -250px;
+}
+.col{
+    width: 300px;
+    height: 60px;
+    border: 1px solid lightgray;
+}
+#tableAside{
+    margin-left: 10px;
+    margin-top: 20px;
+    display: inline block;
+    position: absolute;
+}
+#weatherMain{
+    text-align: left;
+    border: lightgray 1px solid;
+    padding: 20px;
+    border-radius: 5px;
+}
+#weatherDivTitle{
+    display: inline block;
+}
+#weatherContainer{
+    display: inline-block;
+    margin-top: 20px;
+}
+#aside{
+    display: inline-block;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+li{
+    padding: 10px;
+}
+th{
+    font-weight: 500;
+}
+#weekTable{
+    border-spacing: 10px;
+}
+.div1{
+    background-color: #007bff;
+    border-radius: 5px;
+    padding: 0px;
+    color: white;
+}
+#searchInput{
+    margin-right: 0px;
+}
+#searchForm{
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-left: 0px;
+   
+}
+#uvIndex{
+    display: inline-block;
+    padding: 5px;
+    margin-left: 10px;
+}
+.alert{
+    display: inline-block;
+}
